@@ -1,0 +1,1 @@
+# Potato_Leaf_Disesase_Detection_CNN_App
